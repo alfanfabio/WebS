@@ -30,15 +30,45 @@
 
                         <tr>
                             <th scope="row"><?= $i++; ?></th>
-                            <td>Panadol</td>
-                            <td>Obat Biasa</td>
-                            <td>10 pack (isi 20)</td>
+                            <td>AC Swabs</td>
+                            <td>Obat APBD</td>
+                            <td>16 Box</td>
                         </tr>
                         <tr>
                             <th scope="row"><?= $i++; ?></th>
-                            <td>Paracetamol</td>
-                            <td>Obat Biasa</td>
-                            <td>10 pack (isi 20)</td>
+                            <td>Alat Suntik Sekali Pakai 10 ml</td>
+                            <td>Obat APBD</td>
+                            <td> 18 Pack</td>
+                        </tr>
+                        <tr>
+                            <th scope="row"><?= $i++; ?></th>
+                            <td>Alat Suntik Sekali Pakai 3 ml</td>
+                            <td>Obat APBD</td>
+                            <td> 9 Kotak)</td>
+                        </tr>
+                        <tr>
+                            <th scope="row"><?= $i++; ?></th>
+                            <td>Alat Suntik Sekali Pakai 5 ml</td>
+                            <td>Obat APBD</td>
+                            <td> 93 Kotak)</td>
+                        </tr>
+                        <tr>
+                            <th scope="row"><?= $i++; ?></th>
+                            <td>Asm Sling Comfort</td>
+                            <td>Obat APBD</td>
+                            <td> 93 Pack)</td>
+                        </tr>
+                        <tr>
+                            <th scope="row"><?= $i++; ?></th>
+                            <td>Aximed Female Cateter No 16</td>
+                            <td>Obat APBD</td>
+                            <td> 1980 Pack)</td>
+                        </tr>
+                        <tr>
+                            <th scope="row"><?= $i++; ?></th>
+                            <td>Aximed Female Cateter No 18</td>
+                            <td>Obat APBD</td>
+                            <td> 370 Pack)</td>
                         </tr>
 
                     </tbody>

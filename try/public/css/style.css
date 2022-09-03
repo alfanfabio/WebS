@@ -20,7 +20,12 @@
 
 .table > tbody > tr > * {
     vertical-align: middle;
+    background-color: #f7fdff;
     
+}
+
+body {
+  background-color: #29c7f2;
 }
 
 #myInput {
