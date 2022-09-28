@@ -9,13 +9,13 @@
 
 </div>
 
-<div class="container-fluid">
+<div class="container-fluid" style="width: 1500px;">
 
     <div class="row">
         <div class="col-12">
             <div class="card">
                 <div class="card-header">
-                    <h3 class="card-title">Fixed Header Table</h3>
+                    <h3 class="card-title">Daftar Obat</h3>
 
                     <div class="card-tools">
                         <div class="input-group input-group-sm" style="width: 150px;">
@@ -34,22 +34,22 @@
                     <table class="table table-head-fixed text-nowrap">
                         <thead>
                             <tr>
-                                <th>ID</th>
-                                <th>User</th>
-                                <th>Date</th>
-                                <th>Status</th>
-                                <th>Reason</th>
+                                <th>Nama Obat</th>
+                                <th>Tanggal Masuk</th>
+                                <th>Jumlah</th>
+
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
                                 <td>183</td>
-                                <td>John Doe</td>
                                 <td>11-7-2014</td>
-                                <td><span class="tag tag-success">Approved</span></td>
-                                <td>Bacon ipsum dolor sit amet salami venison chicken flank fatback doner.</td>
+                                <td>John Doe</td>
+
+                                <!-- <td><span class="tag tag-success">Approved</span></td>
+                                <td>Bacon ipsum dolor sit amet salami venison chicken flank fatback doner.</td> -->
                             </tr>
-                            <tr>
+                            <!-- <tr>
                                 <td>219</td>
                                 <td>Alexander Pierce</td>
                                 <td>11-7-2014</td>
@@ -97,7 +97,7 @@
                                 <td>11-7-2014</td>
                                 <td><span class="tag tag-danger">Denied</span></td>
                                 <td>Bacon ipsum dolor sit amet salami venison chicken flank fatback doner.</td>
-                            </tr>
+                            </tr> -->
                         </tbody>
                     </table>
                 </div>
